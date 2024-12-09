@@ -1,0 +1,2 @@
+Página de Produto
+Este projeto consiste em uma página de produto simples, desenvolvida para reforçar os conhecimentos em HTML e CSS. O foco principal foi aplicar conceitos de design responsivo, otimizar a experiência do usuário em diferentes dispositivos e praticar o uso de Git e GitHub para controle de versão. Embora o projeto seja básico, ele serviu como uma excelente oportunidade de aprendizado prático, consolidando o que já havia sido aprendido na teoria.
